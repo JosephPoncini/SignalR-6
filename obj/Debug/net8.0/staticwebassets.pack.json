@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalR-6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SignalR-6.props",
+      "PackagePath": "build\\SignalR-6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalR-6.props",
+      "PackagePath": "buildMultiTargeting\\SignalR-6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SignalR-6.props",
+      "PackagePath": "buildTransitive\\SignalR-6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

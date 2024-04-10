@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "+kI5MueuRdv0vG27XOXpW24QbAtfUs1Vn826CE8V4Fg=",
+  "Source": "SignalR-6",
+  "BasePath": "_content/SignalR-6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalR-6\\wwwroot",
+      "Source": "SignalR-6",
+      "ContentRoot": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\",
+      "BasePath": "_content/SignalR-6",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\css\\site.css",
+      "SourceId": "SignalR-6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\",
+      "BasePath": "_content/SignalR-6",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\favicon.ico",
+      "SourceId": "SignalR-6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\",
+      "BasePath": "_content/SignalR-6",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\index.html",
+      "SourceId": "SignalR-6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR-6\\wwwroot\\",
+      "BasePath": "_content/SignalR-6",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
